@@ -1,0 +1,1 @@
+ALTER TABLE solicitudes_registros ADD COLUMN id_administrador INT NULL;
