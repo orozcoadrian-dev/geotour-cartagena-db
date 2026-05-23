@@ -1,0 +1,10 @@
+CREATE TABLE usuarios
+(
+id_usuario INT PRIMARY KEY AUTO_INCREMENT,
+nombre VARCHAR(100) NOT NULL,
+constrasena VARCHAR(255) NOT NULL,
+rol VARCHAR(30) NOT NULL,
+estado VARCHAR(15) NOT NULL,
+fecha_registro DATETIME NOT NULL,
+fecha_ultima_sesion DATETIME NULL
+);
