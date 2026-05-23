@@ -1,0 +1,1 @@
+ALTER TABLE parametros_sistema ADD COLUMN id_administrador INT NULL;
