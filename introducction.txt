@@ -1,0 +1,5 @@
+Hello,
+These are the fases to create the database:
+
+1. Create all tables with its atributes.
+2. Create all foreign keys and relate the tables.
